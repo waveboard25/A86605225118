@@ -1,3 +1,41 @@
 #include <stdio.h>
 
-printf("yo! yk what tis line of cmd does it prints stuff")
+printf("yo! yk what tis line of cmd does it prints stuff\n")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+printf("this is me intruding your code from branchA")
